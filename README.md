@@ -1,4 +1,4 @@
-### Olá, sou Waleska Feitoza, engenheira mecatrônica, doutoranda, professora e pesquisadora na tentativa de ser tornar desenvolvedora 😄�
+### Olá, sou Waleska Feitoza, engenheira mecatrônica, doutoranda, professora e pesquisadora na tentativa de se tornar desenvolvedora 😄�
 
 <!--
 **WaleskaFeitoza/WaleskaFeitoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
